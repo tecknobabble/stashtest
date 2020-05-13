@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="short_description" label="Short Description" language="en" table="x_snc_stash_test2_test_table">
+    <sys_documentation element="a_column" label="A column" language="en" table="x_snc_stash_test2_test_table">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>short_description</element>
+            <element>a_column</element>
             <help/>
             <hint/>
-            <label>Short Description</label>
+            <label>A column</label>
             <language>en</language>
             <name>x_snc_stash_test2_test_table</name>
-            <plural>Short Descriptions</plural>
+            <plural>A columns</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>steve.essery@snc</sys_created_by>
-            <sys_created_on>2020-05-13 16:07:32</sys_created_on>
-            <sys_id>1422cc89dbb89450ee9c7709689619f4</sys_id>
+            <sys_created_on>2020-05-13 16:39:06</sys_created_on>
+            <sys_id>10f1c889dbb89450ee9c770968961919</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Short Description</sys_name>
+            <sys_name>A column</sys_name>
             <sys_package display_value="Stash Test" source="x_snc_stash_test2">263a377cdb789450ee9c770968961977</sys_package>
             <sys_policy/>
             <sys_scope display_value="Stash Test">263a377cdb789450ee9c770968961977</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_stash_test2_test_table_short_description_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_stash_test2_test_table_a_column_en</sys_update_name>
             <sys_updated_by>steve.essery@snc</sys_updated_by>
-            <sys_updated_on>2020-05-13 16:07:32</sys_updated_on>
+            <sys_updated_on>2020-05-13 16:39:06</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

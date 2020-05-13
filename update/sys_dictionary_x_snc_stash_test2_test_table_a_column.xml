@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="short_description" table="x_snc_stash_test2_test_table">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="a_column" table="x_snc_stash_test2_test_table">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Short Description</column_label>
+        <column_label>A column</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,14 +27,14 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>short_description</element>
+        <element>a_column</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>160</max_length>
+        <max_length>40</max_length>
         <name>x_snc_stash_test2_test_table</name>
         <next_element/>
         <primary>false</primary>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>steve.essery@snc</sys_created_by>
-        <sys_created_on>2020-05-13 16:07:29</sys_created_on>
-        <sys_id>5022cc89dbb89450ee9c7709689619f4</sys_id>
+        <sys_created_on>2020-05-13 16:39:06</sys_created_on>
+        <sys_id>40d14849dbb89450ee9c770968961918</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Short Description</sys_name>
+        <sys_name>A column</sys_name>
         <sys_package display_value="Stash Test" source="x_snc_stash_test2">263a377cdb789450ee9c770968961977</sys_package>
         <sys_policy/>
         <sys_scope display_value="Stash Test">263a377cdb789450ee9c770968961977</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_stash_test2_test_table_short_description</sys_update_name>
+        <sys_update_name>sys_dictionary_x_snc_stash_test2_test_table_a_column</sys_update_name>
         <sys_updated_by>steve.essery@snc</sys_updated_by>
-        <sys_updated_on>2020-05-13 16:39:57</sys_updated_on>
+        <sys_updated_on>2020-05-13 16:39:06</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

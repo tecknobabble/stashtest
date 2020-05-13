@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>steve.essery@snc</sys_created_by>
+        <sys_created_on>2020-05-13 16:07:31</sys_created_on>
+        <sys_id>21baf7bcdb789450ee9c770968961992</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_stash_test2_test_table.x_snc_stash_test2.test_table_user</sys_name>
+        <sys_package display_value="Stash Test" source="x_snc_stash_test2">263a377cdb789450ee9c770968961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stash Test">263a377cdb789450ee9c770968961977</sys_scope>
+        <sys_security_acl display_value="x_snc_stash_test2_test_table">a1baf7bcdb789450ee9c77096896198f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_21baf7bcdb789450ee9c770968961992</sys_update_name>
+        <sys_updated_by>steve.essery@snc</sys_updated_by>
+        <sys_updated_on>2020-05-13 16:07:31</sys_updated_on>
+        <sys_user_role display_value="x_snc_stash_test2.test_table_user" name="x_snc_stash_test2.test_table_user">4dbaf3bcdb789450ee9c77096896191c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

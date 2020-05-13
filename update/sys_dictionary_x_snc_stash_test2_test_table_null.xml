@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>steve.essery@snc</sys_created_by>
         <sys_created_on>2020-05-13 16:07:31</sys_created_on>
-        <sys_id>29baf7bcdb789450ee9c77096896199a</sys_id>
+        <sys_id>3a7cfb70dbb89450ee9c77096896192d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_stash_test2_test_table</sys_name>
         <sys_package display_value="Stash Test" source="x_snc_stash_test2">263a377cdb789450ee9c770968961977</sys_package>
         <sys_policy/>
         <sys_scope display_value="Stash Test">263a377cdb789450ee9c770968961977</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_stash_test2_test_table_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_snc_stash_test2_test_table_NULL</sys_update_name>
         <sys_updated_by>steve.essery@snc</sys_updated_by>
-        <sys_updated_on>2020-05-13 16:07:31</sys_updated_on>
+        <sys_updated_on>2020-05-13 16:15:16</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
